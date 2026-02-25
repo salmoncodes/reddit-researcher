@@ -14,3 +14,4 @@ exports/
 *.sqlite
 *.db
 report.txt
+findings/
