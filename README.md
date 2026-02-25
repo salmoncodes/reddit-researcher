@@ -48,8 +48,3 @@ sqlite3 data/reddit_scraper.db "SELECT * FROM posts LIMIT 5;"
 - 1 second between requests
 - Exponential backoff on errors
 - Be respectful, don't hammer Reddit
-
-- `data/` - Database
-- `exports/` - CSV files
-- `venv/` - Virtual environment
-- `__pycache__/` - Python cache
